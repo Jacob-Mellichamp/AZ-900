@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "bbd1e840e6989a01",
+    "type": "split",
+    "children": [
+      {
+        "id": "11c45348e2dbab75",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6200a31c6a78ea12",
+    "type": "split",
+    "children": [
+      {
+        "id": "e792b575db93e609",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c96d3d6e27b000a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "58bb8749c3997933",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219
+  },
+  "right": {
+    "id": "b846aabdefbd285d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b3f61810bf61758",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "870edf712cfd1a21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "11c45348e2dbab75",
+  "lastOpenFiles": [
+    "Compute.md",
+    "Azure Core Services.md",
+    "Machine Learning Services.md",
+    "What is the AZ-900.md",
+    "Networking.md",
+    "Big Data Services.md",
+    "Azure DNS.md",
+    "App Service.md",
+    "Cloud Concepts.md",
+    "Cloud Architecture Goals.md"
+  ]
+}
